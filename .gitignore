@@ -33,3 +33,7 @@ Thumbs.db
 *.jar
 *.rar
 *.tar
+
+#Other folders#
+
+log/
